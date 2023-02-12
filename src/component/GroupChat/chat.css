@@ -1,0 +1,133 @@
+.my-groups{
+    height: 110vh;
+    display: flex;
+    margin-top: 30px;  
+}
+
+.my-groups .container{
+    display: flex;
+}
+
+.chats .userChat{
+    display: flex;
+    margin-top: 10px;
+    margin-left: 10px;
+    background-color: rgb(189, 189, 189);
+    border-radius: 10px;
+    margin-right: 10px;
+    cursor: pointer;
+
+}
+.chats .userChat img{
+    width: 150px;
+    border-radius: 10px;
+}
+
+.my-groups .container {
+    border-radius: 10px;
+    width: 100%;
+    height: 70%;
+    display: flex;
+
+
+}
+
+.sidebar {
+    flex: 1;
+    background-color: rgb(227, 227, 221);
+    border-radius: 10px;
+    box-shadow: 0 5px 5px gray;
+
+}
+
+.chat {
+    flex: 2;
+    background-color: rgb(248, 248, 236);
+    border-radius: 10px;
+    box-shadow: 0 5px 5px gray;
+    position: relative;
+    width: 60%;
+    
+}
+.messages{
+    padding: 10px;
+    height: 560px;
+    overflow-y:scroll;
+    /* flex-direction: column; */
+    display: block;
+
+}
+.others-message {
+    display: flex;
+    gap: 10px;
+    margin-bottom: 20px;
+    text-align: left;
+}
+
+.others-message .messageInfo {
+    flex-direction: column;
+    color: gray;
+    font-weight: 300;
+    display: flex;
+    justify-content: center;
+}
+.others-message .messageContent {
+    max-width: 80%;
+    display: flex;
+    flex-direction: column;
+    
+    
+}
+
+.own-message{
+    align-self: flex-end;
+    text-align: right;
+    
+    
+    
+ }
+.message .messageContent h6{
+    background-color: white;
+    padding: 10px 20px;
+    border-radius: 0px 10px 10px 10px;
+    max-width: max-content;
+}
+
+.input {
+    height: 73px;
+    background-color: white;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-radius: 10px;
+    
+
+}
+
+.input input {
+    width: 100%;
+    border: none;
+    outline: none;
+    color: #2f2d52;
+    font-size: 18px;
+}
+
+.input input ::placeholder {
+    color: lightgray;
+}
+
+.input .send {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.input button {
+    border: none;
+    padding: 10px 15px;
+    color: white;
+    background-color: #40c24f;
+    cursor: pointer;
+    border-radius: 5px;
+}
