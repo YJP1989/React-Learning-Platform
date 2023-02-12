@@ -4,7 +4,7 @@ import {getFirestore} from 'firebase/firestore';
 import { getStorage } from "firebase/storage";
 
 const firebaseConfig = {
-    apiKey: `${process.env.REACT_APP_FIREBASE_API_KEY}`,
+    apiKey: "AIzaSyBU1gyQxAoAgbTJ77Pt9EqSGQBfWC2fhks",
     authDomain: "ga-project-2-learning-app.firebaseapp.com",
     projectId: "ga-project-2-learning-app",
     storageBucket: "ga-project-2-learning-app.appspot.com",
