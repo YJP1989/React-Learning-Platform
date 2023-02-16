@@ -33,7 +33,7 @@ export default function CardBook(props) {
                 })}
                 {showBook ? null : <Link to='/books' style={{ textDecoration: 'none' }}><div className="card card-book" style={{ width: '12rem' }}>
                     <Link to='/books'></Link>
-                    <img src="https://thumbs.dreamstime.com/b/read-more-books-stack-hardback-phrase-added-white-text-spines-as-metaphor-education-74408071.jpg" className="card-img-top" alt="..." />
+                    <img src="/img/MoreBooks.jpg" className="card-img-top" alt="..." />
                     <div className="card-body text-center">
                         <h5 className="card-title" >Hungry for More Books?</h5><br /><br />
                     </div>
