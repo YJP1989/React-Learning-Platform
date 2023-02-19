@@ -28,10 +28,10 @@ Users are availiable to
 #### Home Page:
 <img src="https://github.com/YJP1989/React-Learning-Platform/blob/images/Learning%20platform%20app%20images/homepage.png?raw=true" width="1000">
 
-#### Discussion Group page:
+#### Discussion Group Page:
 <img src="https://github.com/YJP1989/React-Learning-Platform/blob/images/Learning%20platform%20app%20images/groupspage.png?raw=true" width="1000">
 
-#### Live Chat Room page:
+#### Live Chat Room Page:
 <img src="https://github.com/YJP1989/React-Learning-Platform/blob/images/Learning%20platform%20app%20images/chatroom_react.png?raw=true" width="1000">
 
 #### Login Page:
@@ -46,7 +46,7 @@ Users are availiable to
 #### Book Detail Page:
 <img src="https://github.com/YJP1989/React-Learning-Platform/blob/images/Learning%20platform%20app%20images/bookdetail.png?raw=true" width="1000">
 
-#### Personal Library page:
+#### Personal Library Page:
 <img src="https://github.com/YJP1989/React-Learning-Platform/blob/images/Learning%20platform%20app%20images/librarypage.png?raw=true" width="1000">
 
 TBC...
