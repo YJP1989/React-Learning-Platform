@@ -24,14 +24,25 @@ Users are availiable to
 
 ## Schematic Diagram
 
-#### Home Page
+#### Home Page:
 <img src="https://github.com/YJP1989/React-Learning-Platform/blob/images/Learning%20platform%20app%20images/homepage.png?raw=true" width="1000">
 
-#### Books Page
+#### Books Page:
 <img src="https://github.com/YJP1989/React-Learning-Platform/blob/images/Learning%20platform%20app%20images/bookspage.png?raw=true" width="1000">
 
-#### Live Chat Group page
+#### Live Chat Group page:
 <img src="https://github.com/YJP1989/React-Learning-Platform/blob/images/Learning%20platform%20app%20images/groupspage.png?raw=true" width="1000">
+
+#### Login Page:
+<img src="[https://github.com/YJP1989/React-Learning-Platform/blob/images/Learning%20platform%20app%20images/groupspage.png?raw=true](https://github.com/YJP1989/React-Learning-Platform/blob/images/Learning%20platform%20app%20images/loginpage.png?raw=true)" width="1000">
+
+#### Register Page:
+<img src="[https://github.com/YJP1989/React-Learning-Platform/blob/images/Learning%20platform%20app%20images/groupspage.png?raw=true](https://github.com/YJP1989/React-Learning-Platform/blob/images/Learning%20platform%20app%20images/registerpage.png?raw=true)" width="1000">
+
+#### Personal Library page:
+<img src="[https://github.com/YJP1989/React-Learning-Platform/blob/images/Learning%20platform%20app%20images/groupspage.png?raw=true](https://github.com/YJP1989/React-Learning-Platform/blob/images/Learning%20platform%20app%20images/librarypage.png?raw=true)" width="1000">
+
+#### Book Detail Page:
 
 
 
