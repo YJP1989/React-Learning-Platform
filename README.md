@@ -27,6 +27,12 @@ Users are availiable to
 #### Home Page
 <img src="https://github.com/YJP1989/React-Learning-Platform/blob/images/Learning%20platform%20app%20images/homepage.png?raw=true" width="1000">
 
+#### Books Page
+<img src="https://github.com/YJP1989/React-Learning-Platform/blob/images/Learning%20platform%20app%20images/bookspage.png?raw=true" width="1000">
+
+#### Live Chat Group page
+<img src="https://github.com/YJP1989/React-Learning-Platform/blob/images/Learning%20platform%20app%20images/groupspage.png?raw=true" width="1000">
+
 
 
 TBC...
