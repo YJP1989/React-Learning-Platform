@@ -1,6 +1,6 @@
 # React Learning Platform APP
 
-Online study and discussion platform. Powered by `React` and `firebase`. [Click here.](https://yjp1989.github.io/React-Learning-Platform/)
+Online study and live chat discussion platform. Powered by `React` and `firebase`. [Click here.](https://yjp1989.github.io/React-Learning-Platform/)
 
 <img src="https://github.com/YJP1989/React-Learning-Platform/blob/images/Learning%20platform%20app%20images/react&firebase.jpg?raw=true" width="500">
 
