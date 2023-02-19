@@ -1,5 +1,33 @@
 # React Learning Platform APP
 
+Online study and discussion platform. Powered by `React` and `firebase`.
+<img src="https://github.com/YJP1989/React-Learning-Platform/blob/images/Learning%20platform%20app%20images/react&firebase.jpg?raw=true" width="500">
+
+###Description
+
+Learning platform is a website take full advantage of **Google book API** and **Google Firebase Realtime Database**. 
+Users are availiable to 
+- *resginter / login to save personal data and retrive their offline or realtime chat messages, 
+- *search book, 
+- *read book, 
+- *start a live chat with other users in any discussion group room.
+
+##Technical Used
+
+- React
+- `firebase` packages to sign in with email / password and save user information in `Authentication`
+- `firebase` packages to save data like image in `firebase storage`
+- `firebase` packages to save personal book data and live chat messages in `Firestore Database`
+- Axios API `Google Book API`
+- `bootstrap` and `Font Awesome` packages to design frontend web page
+
+##Schematic Diagram
+
+####Home Page
+<img src="https://github.com/YJP1989/React-Learning-Platform/blob/images/Learning%20platform%20app%20images/homepage.png?raw=true" width="500">
+
+
+
 TBC...
 
 
