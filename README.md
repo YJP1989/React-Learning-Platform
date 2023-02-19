@@ -9,7 +9,7 @@ Online study and discussion platform. Powered by `React` and `firebase`. [Click 
 Learning platform is a website take full advantage of **Google book API** and **Google Firebase Realtime Database**. 
 Users are availiable to 
 - Resginter / login to save personal data and retrieve their offline or realtime chat messages, 
-- Start a live chat with other users in any discussion group room.
+- Make a live chat with other users in any discussion group room.
 - Search book, 
 - Read book, 
 - Add & remove books from personal library
