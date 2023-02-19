@@ -3,7 +3,7 @@
 Online study and discussion platform. Powered by `React` and `firebase`.
 <img src="https://github.com/YJP1989/React-Learning-Platform/blob/images/Learning%20platform%20app%20images/react&firebase.jpg?raw=true" width="500">
 
-###Description
+### Description
 
 Learning platform is a website take full advantage of **Google book API** and **Google Firebase Realtime Database**. 
 Users are availiable to 
@@ -12,7 +12,7 @@ Users are availiable to
 - *read book, 
 - *start a live chat with other users in any discussion group room.
 
-##Technical Used
+## Technical Used
 
 - React
 - `firebase` packages to sign in with email / password and save user information in `Authentication`
@@ -21,9 +21,9 @@ Users are availiable to
 - Axios API `Google Book API`
 - `bootstrap` and `Font Awesome` packages to design frontend web page
 
-##Schematic Diagram
+## Schematic Diagram
 
-####Home Page
+#### Home Page
 <img src="https://github.com/YJP1989/React-Learning-Platform/blob/images/Learning%20platform%20app%20images/homepage.png?raw=true" width="500">
 
 
