@@ -25,7 +25,7 @@ Users are availiable to
 ## Schematic Diagram
 
 #### Home Page
-<img src="https://github.com/YJP1989/React-Learning-Platform/blob/images/Learning%20platform%20app%20images/homepage.png?raw=true" width="800">
+<img src="https://github.com/YJP1989/React-Learning-Platform/blob/images/Learning%20platform%20app%20images/homepage.png?raw=true" width="1000">
 
 
 
