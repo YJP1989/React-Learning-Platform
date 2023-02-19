@@ -1,6 +1,7 @@
 # React Learning Platform APP
 
 Online study and discussion platform. Powered by `React` and `firebase`.
+
 <img src="https://github.com/YJP1989/React-Learning-Platform/blob/images/Learning%20platform%20app%20images/react&firebase.jpg?raw=true" width="500">
 
 ### Description
@@ -24,7 +25,7 @@ Users are availiable to
 ## Schematic Diagram
 
 #### Home Page
-<img src="https://github.com/YJP1989/React-Learning-Platform/blob/images/Learning%20platform%20app%20images/homepage.png?raw=true" width="500">
+<img src="https://github.com/YJP1989/React-Learning-Platform/blob/images/Learning%20platform%20app%20images/homepage.png?raw=true" width="800">
 
 
 
