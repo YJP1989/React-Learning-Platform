@@ -8,7 +8,7 @@ Online study and discussion platform. Powered by `React` and `firebase`. [Click 
 
 Learning platform is a website take full advantage of **Google book API** and **Google Firebase Realtime Database**. 
 Users are availiable to 
-- Resginter / login to save personal data and retrive their offline or realtime chat messages, 
+- Resginter / login to save personal data and retrieve their offline or realtime chat messages, 
 - Start a live chat with other users in any discussion group room.
 - Search book, 
 - Read book, 
@@ -49,7 +49,11 @@ Users are availiable to
 #### Personal Library Page:
 <img src="https://github.com/YJP1989/React-Learning-Platform/blob/images/Learning%20platform%20app%20images/librarypage.png?raw=true" width="1000">
 
-TBC...
+## Challenges
+1. Connect frontend react app with backend firebase database
+2. Didn't tried useReducer & useRedux 
+3. Update profiles to firebase
+4. Retrieve offtime and realtime chat messages from firebase database
 
 
 
