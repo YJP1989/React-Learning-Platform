@@ -9,9 +9,10 @@ Online study and discussion platform. Powered by `React` and `firebase`.
 Learning platform is a website take full advantage of **Google book API** and **Google Firebase Realtime Database**. 
 Users are availiable to 
 - resginter / login to save personal data and retrive their offline or realtime chat messages, 
+- start a live chat with other users in any discussion group room.
 - search book, 
 - read book, 
-- start a live chat with other users in any discussion group room.
+- add & remove books from personal library
 
 ## Technical Used
 
@@ -27,24 +28,26 @@ Users are availiable to
 #### Home Page:
 <img src="https://github.com/YJP1989/React-Learning-Platform/blob/images/Learning%20platform%20app%20images/homepage.png?raw=true" width="1000">
 
+#### Discussion Group page:
+<img src="https://github.com/YJP1989/React-Learning-Platform/blob/images/Learning%20platform%20app%20images/groupspage.png?raw=true" width="1000">
+
+#### Live Chat Room page:
+<img src="https://github.com/YJP1989/React-Learning-Platform/blob/images/Learning%20platform%20app%20images/chatroom_react.png?raw=true" width="1000">
+
+#### Login Page:
+<img src="https://github.com/YJP1989/React-Learning-Platform/blob/images/Learning%20platform%20app%20images/loginpage.png?raw=true" width="1000">
+
+#### Register Page:
+<img src="https://github.com/YJP1989/React-Learning-Platform/blob/images/Learning%20platform%20app%20images/registerpage.png?raw=true" width="1000">
+
 #### Books Page:
 <img src="https://github.com/YJP1989/React-Learning-Platform/blob/images/Learning%20platform%20app%20images/bookspage.png?raw=true" width="1000">
 
-#### Live Chat Group page:
-<img src="https://github.com/YJP1989/React-Learning-Platform/blob/images/Learning%20platform%20app%20images/groupspage.png?raw=true" width="1000">
-
-#### Login Page:
-<img src="[https://github.com/YJP1989/React-Learning-Platform/blob/images/Learning%20platform%20app%20images/groupspage.png?raw=true](https://github.com/YJP1989/React-Learning-Platform/blob/images/Learning%20platform%20app%20images/loginpage.png?raw=true)" width="1000">
-
-#### Register Page:
-<img src="[https://github.com/YJP1989/React-Learning-Platform/blob/images/Learning%20platform%20app%20images/groupspage.png?raw=true](https://github.com/YJP1989/React-Learning-Platform/blob/images/Learning%20platform%20app%20images/registerpage.png?raw=true)" width="1000">
+#### Book Detail Page:
+<img src="https://github.com/YJP1989/React-Learning-Platform/blob/images/Learning%20platform%20app%20images/bookdetail.png?raw=true" width="1000">
 
 #### Personal Library page:
-<img src="[https://github.com/YJP1989/React-Learning-Platform/blob/images/Learning%20platform%20app%20images/groupspage.png?raw=true](https://github.com/YJP1989/React-Learning-Platform/blob/images/Learning%20platform%20app%20images/librarypage.png?raw=true)" width="1000">
-
-#### Book Detail Page:
-
-
+<img src="https://github.com/YJP1989/React-Learning-Platform/blob/images/Learning%20platform%20app%20images/librarypage.png?raw=true" width="1000">
 
 TBC...
 
