@@ -25,28 +25,28 @@ Users are availiable to
 
 ## Schematic Diagram
 
-#### Home Page:
+#### * Home Page:
 <img src="https://github.com/YJP1989/React-Learning-Platform/blob/images/Learning%20platform%20app%20images/homepage.png?raw=true" width="1000">
 
-#### Discussion Group Page:
+#### * Discussion Group Page:
 <img src="https://github.com/YJP1989/React-Learning-Platform/blob/images/Learning%20platform%20app%20images/groupspage.png?raw=true" width="1000">
 
-#### Live Chat Room Page:
+#### * Live Chat Room Page:
 <img src="https://github.com/YJP1989/React-Learning-Platform/blob/images/Learning%20platform%20app%20images/chatroom_react.png?raw=true" width="1000">
 
-#### Login Page:
+#### * Login Page:
 <img src="https://github.com/YJP1989/React-Learning-Platform/blob/images/Learning%20platform%20app%20images/loginpage.png?raw=true" width="1000">
 
-#### Register Page:
+#### * Register Page:
 <img src="https://github.com/YJP1989/React-Learning-Platform/blob/images/Learning%20platform%20app%20images/registerpage.png?raw=true" width="1000">
 
-#### Books Page:
+#### * Books Page:
 <img src="https://github.com/YJP1989/React-Learning-Platform/blob/images/Learning%20platform%20app%20images/bookspage.png?raw=true" width="1000">
 
-#### Book Detail Page:
+#### * Book Detail Page:
 <img src="https://github.com/YJP1989/React-Learning-Platform/blob/images/Learning%20platform%20app%20images/bookdetail.png?raw=true" width="1000">
 
-#### Personal Library Page:
+#### * Personal Library Page:
 <img src="https://github.com/YJP1989/React-Learning-Platform/blob/images/Learning%20platform%20app%20images/librarypage.png?raw=true" width="1000">
 
 TBC...
