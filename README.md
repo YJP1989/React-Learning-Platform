@@ -6,9 +6,9 @@ Online study and live chat discussion platform. Powered by `React` and `firebase
 
 ### Description
 
-Learning platform is a website take full advantage of **Google book API** and **Google Firebase Realtime Database**. 
+Learning platform is a website take full advantage of **Google book API** and **Google Firebase Real-time Database**. 
 Users are able to 
-- Resginter / login to save personal data and retrieve their offline or realtime chat messages, 
+- Resgister / login to save personal data and retrieve their offline or real-time chat messages, 
 - Make a live chat with other users in any discussion group room.
 - Search book, 
 - Read book, 
