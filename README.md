@@ -51,7 +51,7 @@ Users are able to
 
 ## Challenges
 1. Connect frontend react app with backend firebase database
-2. Didn't tried useReducer & useRedux 
+2. Have not tried Redux 
 3. Update user profile to firebase
 4. Retrieve offtime and realtime chat messages from firebase database
 
